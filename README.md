@@ -5,10 +5,10 @@
    </a>
 
    ## 🔮 ABOUT ME 🔮
-   * 🌈 My name is Noppasorn You can call me PinPin
-   * 💫 Studying at King Mongkut's University of Technology Thonburi (KMUTT)
-   * 💻 School of Information Technology 
-   * 💖 You can contact me from the email nopphasorn.techa@gmail.com
+   * 👩🏻‍🦰 My name is Noppasorn You can call me PinPin
+   * 🏫 Studying at King Mongkut's University of Technology Thonburi (KMUTT)
+   * 📔 School of Information Technology 
+   * 📧 You can contact me from the email nopphasorn.techa@gmail.com
 
    <h2> <img src="https://user-images.githubusercontent.com/77680108/138885690-8a37d98e-6f8a-4568-a528-aba9a3edee9c.png" width="20px"><b> Git Activeness</b> </h2>
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinnop&show_icons=true&locale=en&layout=compact" alt="pinnop" /></p>
@@ -19,7 +19,7 @@
 <!--
 ![image](https://user-images.githubusercontent.com/77680108/138885690-8a37d98e-6f8a-4568-a528-aba9a3edee9c.png)
 
-<!--### Hi there 👋 🌈🔮🎉🎀🎊💌💜💕💫🌖🌷🌸☔️🍰🍧🍡🍬
+<!--### Hi there 👋 🌈🔮🎉🎀🎊💌💜💕💫🌖🌷🌸☔️🍰🍧🍡🍬 📩📧📔🏫👩🏻‍🦰
 
 
 pinnop/pinnop is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
