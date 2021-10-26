@@ -10,7 +10,7 @@
    * 💻 School of Information Technology 
    * 💖 You can contact me from the email nopphasorn.techa@gmail.com
 
-   <h2> <img src="https://user-images.githubusercontent.com/77680108/138885690-8a37d98e-6f8a-4568-a528-aba9a3edee9c.png" width="30px"><b>Git Activeness</b> </h2>
+   <h2> <img src="https://user-images.githubusercontent.com/77680108/138885690-8a37d98e-6f8a-4568-a528-aba9a3edee9c.png" width="30px"><b> Git Activeness</b> </h2>
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinnop&show_icons=true&locale=en&layout=compact" alt="pinnop" /></p>
     <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pinnop&show_icons=true&locale=en&layout=compact" alt="pinnop" width="410" /></p>
     <br>
